@@ -41,3 +41,12 @@
     width: 564px;
     margin: auto;
 }
+
+.boxes img {
+    margin: 50px;
+}
+
+.title img{
+    padding: 20px;
+    height: 50px;
+}
